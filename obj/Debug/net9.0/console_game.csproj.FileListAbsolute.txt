@@ -1,0 +1,15 @@
+E:\console_game\bin\Debug\net9.0\console_game.exe
+E:\console_game\bin\Debug\net9.0\console_game.deps.json
+E:\console_game\bin\Debug\net9.0\console_game.runtimeconfig.json
+E:\console_game\bin\Debug\net9.0\console_game.dll
+E:\console_game\bin\Debug\net9.0\console_game.pdb
+E:\console_game\obj\Debug\net9.0\console_game.GeneratedMSBuildEditorConfig.editorconfig
+E:\console_game\obj\Debug\net9.0\console_game.AssemblyInfoInputs.cache
+E:\console_game\obj\Debug\net9.0\console_game.AssemblyInfo.cs
+E:\console_game\obj\Debug\net9.0\console_game.csproj.CoreCompileInputs.cache
+E:\console_game\obj\Debug\net9.0\console_game.sourcelink.json
+E:\console_game\obj\Debug\net9.0\console_game.dll
+E:\console_game\obj\Debug\net9.0\refint\console_game.dll
+E:\console_game\obj\Debug\net9.0\console_game.pdb
+E:\console_game\obj\Debug\net9.0\console_game.genruntimeconfig.cache
+E:\console_game\obj\Debug\net9.0\ref\console_game.dll
