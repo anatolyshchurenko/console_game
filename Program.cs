@@ -20,7 +20,7 @@ namespace project
                     igrok.Name = Console.ReadLine() ?? "Mr Chronica";
                 }
 
-            Console.WriteLine("Приятно познакомиться, " + igrok.Name);
+            Console.WriteLine("Приятно познакомиться" + igrok.Name);
 
         }
     }
