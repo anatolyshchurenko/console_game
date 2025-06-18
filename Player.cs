@@ -6,6 +6,7 @@ namespace project
     {
 
         private string name;
+        private byte hp;
         
         public string Name
         {
