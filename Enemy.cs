@@ -24,7 +24,7 @@ namespace project
             setValue(this.name, this.damage, this.hp, this.ex);
         }
 
-        public void Experience()
+        public void Experience() //вывод опыта
         {
             Console.WriteLine("враг повержен!");
             Console.WriteLine("вы получили " + this.ex + "опыта" );
