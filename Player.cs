@@ -7,8 +7,11 @@ namespace project
 
         private string name;
         private byte hp;
-        
-        public string Name
+        private byte damage;
+        private byte lvl;
+
+
+        public string Name //проверка имени
         {
             get { return name; }
             set
@@ -19,6 +22,7 @@ namespace project
                     name = "Mr Chronica";
             }
         } 
+        
 
     }
 }

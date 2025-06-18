@@ -10,7 +10,7 @@ namespace project
         private byte hp;
         private byte ex;
 
-        public void setValue(string name, byte damage, byte hp, byte ex)
+        public void setValue_Enemy(string name, byte damage, byte hp, byte ex) //назначение свойств
         {
             this.name = name; 
             this.damage = damage;
@@ -18,10 +18,10 @@ namespace project
             this.ex = ex;
         }
 
-        public Enemy(string name, byte damage, byte hp)
+        public Enemy(string name, byte damage, byte hp) //конструктор врага
         {
-            Console.WriteLine("враг на горизонте!");
-            setValue(this.name, this.damage, this.hp, this.ex);
+            setValue_Enemy(this.name, this.damage, this.hp, this.ex);
+            Console.WriteLine("на горизонте " + this.name + "!");
         }
 
         public void Experience() //вывод опыта
